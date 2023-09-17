@@ -57,6 +57,8 @@
 	<array>
 		<string>com.antonlorani.jottre.openDetail</string>
 	</array>
+	<key>REPLICATE_API_KEY</key>
+	<string>19b22a9cc72c8a00c18c6b0b594832c20312aed9</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
@@ -102,6 +104,8 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>UPLOAD_IO_API_KEY</key>
+	<string>public_kW15b6S5oni2ezaG3AwADm2W33Mr</string>
 	<key>UTExportedTypeDeclarations</key>
 	<array>
 		<dict>

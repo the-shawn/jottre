@@ -214,6 +214,7 @@ class DrawViewController: UIViewController {
         
         alertController.addAction(createExportToPDFAction())
         alertController.addAction(createExportToJPGAction())
+        alertController.addAction(createExportToPNGGAction())
         alertController.addAction(createExportToPNGAction())
         alertController.addAction(createShareAction())
         alertController.addAction(UIAlertAction(title: alertCancelTitle, style: .cancel, handler: { (action) in
